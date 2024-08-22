@@ -10,7 +10,7 @@
     },
     "dependencies": {
         "jquery": "2.1.3",
-        "atom-space-pen-views": "2.0.5",
+        "atom-space-pen-views": "2.2.0",
         "path": "*",
         "event-kit": "*"
     },
